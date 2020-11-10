@@ -1,0 +1,5 @@
+check_battery 0 checkBattery
+spiral 0 walks,turn,inc
+close 0 walk,1
+medium 0 walk,3
+far 0 walk,6

@@ -1,0 +1,8 @@
+empty -0.15 spiral
+spiral -0.15 check_battery
+facing 0.15 close
+facing 0.46 medium
+facing 0.72 far
+facing 0.9 far
+medium 0.45 check_battery
+far 0.9 check_battery
